@@ -135,23 +135,7 @@ Use [Postman](https://www.postman.com/) for testing endpoints. Make sure to incl
 
 ---
 
-## 📌 Future Improvements (Ideas)
-
-- Admin role and activity management
-- File upload for activity cover image
-- Pagination, filtering, and search for activities
-- Email notifications for booking confirmation
-- Swagger API documentation
-
----
-
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
 ## 👤 Author
 
 Developed by **Mohit Kumar Singh**  
-Backend Developer | Node.js Enthusiast
+Backend Developer
