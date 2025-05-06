@@ -131,7 +131,7 @@ You can enable/disable these in `server.js` by uncommenting the relevant middlew
 
 ## 🧪 Testing
 
-Use [Postman](https://www.postman.com/) or [Thunder Client](https://www.thunderclient.com/) for testing endpoints. Make sure to include the JWT token in the header for protected routes.
+Use [Postman](https://www.postman.com/) for testing endpoints. Make sure to include the JWT token in the header for protected routes.
 
 ---
 
