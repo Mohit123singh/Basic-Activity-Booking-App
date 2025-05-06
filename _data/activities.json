@@ -1,0 +1,30 @@
+[
+    {
+      "title": "Cricket Match",
+      "description": "Friendly cricket match organized at the local stadium.",
+      "location": "Greenfield Stadium, City Center",
+      "dateTime": "2025-06-10T16:00:00.000Z",
+      "user": "5d7a514b5d2c12c7449be042"
+    },
+    {
+      "title": "Movie Screening",
+      "description": "Outdoor screening of an award-winning movie under the stars.",
+      "location": "Sunset Park, Block A",
+      "dateTime": "2025-06-12T19:30:00.000Z",
+      "user": "5d7a514b5d2c12c7449be046"
+    },
+    {
+      "title": "Football Tournament",
+      "description": "Local teams competing in a weekend football tournament.",
+      "location": "City Sports Complex",
+      "dateTime": "2025-06-14T09:00:00.000Z",
+      "user": "5d7a514b5d2c12c7449be045"
+    },
+    {
+      "title": "Live Music Concert",
+      "description": "Enjoy a night of live rock and indie music performances.",
+      "location": "Downtown Amphitheater",
+      "dateTime": "2025-06-20T20:00:00.000Z",
+      "user": "5d7a514b5d2c12c7449be043"
+    }
+  ]
